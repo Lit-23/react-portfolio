@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useEffect } from 'react';
 import Landing from './home/Landing';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
