@@ -8,9 +8,9 @@ import ReactImage from '../assets/react.png'
 
 function TechStack() {
   return (
-    <section className="max-w-[1160px] w-full mx-auto mt-[168px] px-[24px] lg:px-0  ">
+    <section className="max-w-[1160px] w-full mx-auto mt-[168px] px-[24px] max-sm:px-0">
     <div data-aos="fade-up" data-aos-duration="1000" 
-    className="bg-gradient-to-r flex flex-col lg:flex-row justify-between items-center from-fuchsia-500/[30%] to-indigo-600/[30%] rounded-lg px-8 lg:gap-0 gap-3 lg:px-[45.5px] py-10">
+    className="bg-gradient-to-r flex flex-col lg:flex-row justify-between items-center from-fuchsia-500/[30%] to-indigo-600/[30%] rounded-lg max-sm:rounded-none px-8 lg:gap-0 gap-3 lg:px-[45.5px] py-10">
         <div data-aos="fade-up" data-aos-duration="1000" className=" w-full lg:w-1/2 ">
             <h1 className="text-[56px] text-white sm:text-center lg:text-start font-bold leading-[1] mb-3 ">Tech Stack</h1>
             <p className="text-white sm:text-center lg:text-start leading-[1.8]">
