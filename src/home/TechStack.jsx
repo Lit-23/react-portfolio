@@ -43,7 +43,7 @@ function TechStack() {
                 <img className="w-[50px] h-[50px] bg-white rounded-full" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' alt=""/>
             </div>
             <div className="col-span-1 py-6 flex justify-center items-center bg-[#222222]/[30%] border border-[#2C2C2C] rounded-lg">
-                <img className="w-[80px] h-[50px]" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg' alt=""/>
+                <img className="w-[60px] h-[50px]" src='../src/assets/laravel-svgrepo-com.png' alt="laravel"/>
             </div>
             <div className="col-span-1 py-6 flex justify-center items-center bg-[#222222]/[30%] border border-[#2C2C2C] rounded-lg">
                 <img className="w-[50px] h-[50px]" src={FirebaseImage} alt=""/>
